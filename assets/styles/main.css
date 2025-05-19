@@ -28,4 +28,23 @@ body.dark-mode {
 .subscribe-button:hover {
   background-color: #0056b3;
 }
+footer {
+  background-color: #f8f8f8;
+  padding: 20px;
+  text-align: center;
+}
+.footer-widgets {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 10px;
+}
+.footer-widget {
+  width: 30%;
+  text-align: left;
+}
+.footer-widget p {
+  margin: 5px 0;
+  padding: 2px;
+}
+
 
