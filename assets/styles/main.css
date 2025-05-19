@@ -28,4 +28,10 @@ body.dark-mode {
 .subscribe-button:hover {
   background-color: #0056b3;
 }
+footer {
+  background-color: #f8f8f8;
+  padding: 20px;
+  text-align: center;
+}
+
 
